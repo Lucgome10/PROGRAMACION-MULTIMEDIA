@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ALUMNO/AndroidStudioProjects/Tema1Actividades48/app/src/main/res/layout/actividad1_1.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/ALUMNO/AndroidStudioProjects/Tema1Actividades48/app/src/main/res/layout/actividad1_2.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/ALUMNO/AndroidStudioProjects/Tema1Actividades48/app/src/main/res/layout/actividad1_3.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/ALUMNO/AndroidStudioProjects/Tema1Actividades48/app/src/main/res/layout/actividad1_4.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/ALUMNO/AndroidStudioProjects/Tema1Actividades48/app/src/main/res/layout/actividad2.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/ALUMNO/AndroidStudioProjects/Tema1Actividades48/app/src/main/res/layout/actividad3.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/ALUMNO/AndroidStudioProjects/Tema1Actividades48/app/src/main/res/layout/actividad4.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/ALUMNO/AndroidStudioProjects/Tema1Actividades48/app/src/main/res/layout/actividad5.xml" value="0.5" />
+        <entry key="..\:/Users/ALUMNO/AndroidStudioProjects/Tema1Actividades48/app/src/main/res/layout/actividad6.xml" value="0.33" />
+        <entry key="..\:/Users/ALUMNO/AndroidStudioProjects/Tema1Actividades48/app/src/main/res/layout/activity_main.xml" value="0.35104166666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
